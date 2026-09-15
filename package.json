@@ -1,0 +1,12 @@
+{
+  "name": "api-authentication-fundamentals",
+  "version": "1.0.0",
+  "description": "API authentication using token-based authentication",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
